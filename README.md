@@ -1,0 +1,2 @@
+# NextJS-Notes
+NextJs Notes
